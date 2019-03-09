@@ -5,6 +5,18 @@ a more low-level and less user-friendly interface is available in
 the form of the ‘dpkg’ command.
 
 
+### HOW TO BUILD on macOS
+
+* open terminal
+* run this script
+```bash
+./scripts/iosbuild.sh
+```
+
+### Special thanks to
+
+* [LeoBelda/lem_in_editor](https://github.com/LeoBelda/lem_in_editor/blob/9c7ca4daa7179ef465e36390ac2f1834e6147157/libs/SDL2/sources/build-scripts/iosbuild.sh)
+
 Releases
 --------
 

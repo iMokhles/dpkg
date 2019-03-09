@@ -605,7 +605,7 @@ create_notify_socket(void)
 	int fd, rc, flags;
 
 	/* Create notification socket. */
-	fd = socket(AF_UNIX, SOCK_DGRAM | SOCK_NONBLOCK, 0);
+	fd = socket(AF_UNIX, SOCK_DGRAM , 0);
 	if (fd < 0)
 		fatale("cannot create notification socket");
 

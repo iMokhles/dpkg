@@ -28,7 +28,7 @@
 #include <limits.h>
 #include <string.h>
 #include <unistd.h>
-#include <ar.h>
+#include "../lib/dpkg/ar.h"
 #include <inttypes.h>
 #include <stdint.h>
 #include <stdlib.h>
