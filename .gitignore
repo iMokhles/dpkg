@@ -19,6 +19,7 @@ Makefile.in
 
 # Top dir ignores
 autom4te.cache/
+ios-build/
 build-aux/
 build-tree/
 ABOUT-NLS
